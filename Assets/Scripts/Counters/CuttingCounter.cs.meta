@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1af1e3151647e5e4a981c70469c4f9f2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - counterTopPoint: {instanceID: 0}
+  - cutKitchenObjectSo: {fileID: 11400000, guid: 175ee87761906e1449ef9b5a660130e3,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
